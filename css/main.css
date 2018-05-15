@@ -16,8 +16,24 @@
   color: white;
 }
 
+.main-header-inner {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 550px;
+  color: white;
+}
+
 .main-header .showcase {
   padding-top: 100px;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.main-header-inner .showcase {
+  padding-top: 50px;
 }
 
 .active-link {
