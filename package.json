@@ -1,0 +1,19 @@
+{
+  "name": "quazzu_demo",
+  "version": "1.0.0",
+  "description": "Sample Project Demo as built from Traversy Media Tutorial",
+  "main": "indext.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geoklown/quazzu_demo.git"
+  },
+  "author": "John Junkins SR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geoklown/quazzu_demo/issues"
+  },
+  "homepage": "https://github.com/geoklown/quazzu_demo#readme"
+}
